@@ -1,6 +1,4 @@
-#summary Screenshots of jZebra in use
 #labels Featured,Phase-Implementation,Phase-Support
-
 = Web Applet =
 
 || *Firefox* `(Ubuntu 9.10)`  || *Firefox* `(Windows XP)` ||
