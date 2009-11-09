@@ -23,5 +23,5 @@
 
 = Desktop Application Screenshots =
 
-|| *Windows XP* || *Ubuntu 8.10* || 
-|| [http://2.bp.blogspot.com/_9hmP3Ho0t14/Svd-aSXjJpI/AAAAAAAAAVA/PRDyBki-CtE/s1600/xp_desktop.jpg http://2.bp.blogspot.com/_9hmP3Ho0t14/Svd-aSXjJpI/AAAAAAAAAVA/PRDyBki-CtE/s200/xp_desktop.jpg] || [http://3.bp.blogspot.com/_9hmP3Ho0t14/Svd9b6Leo_I/AAAAAAAAAU4/cekU2JGtDJs/s1600/xp_desktop.png http://3.bp.blogspot.com/_9hmP3Ho0t14/Svd9b6Leo_I/AAAAAAAAAU4/cekU2J
+|| *Windows XP* || *Uxp_desktop.jpg] || [http://3.bp.blogspot.com/_9hmP3Ho0t14/Svd9b6Leo_I/AAAAAAAAAU4/cekU2JGtDJs/s1600/xp_desktop.png http://3.bp.blogspot.com/_9hmP3Ho0t14/Svd9b6Leo_I/AAAAAAAAAU4/cekU2JP* || *Ubuntu 8.10* || 
+|| [http://2.bp.blogspot.com/_9hmP3Ho0t14/Svd-aSXjJpI/AAAAAAAAAVA/PRDyBki-CtE/s1600/xp_desktop.jpg http://2.bp.blogspot.com/_9hmP3Ho0t14/Svd-aSXjJpI/AAAAAAAAAVA/PRDyBki-C
